@@ -6,6 +6,10 @@ Summarise long bodies of text from websites with power of Chat-GPT. Weither it b
 
 React, TypeScript, Redux & TailwindCSS
 
+## Live Website
+
+[Site](https://sumry.vercel.app/)
+
 ## Authors
 
 - [@samukelolukhele](https://github.com/samukelolukhele)
